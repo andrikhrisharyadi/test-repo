@@ -1,4 +1,4 @@
 test inner file
 
-
+line 3
 edited
