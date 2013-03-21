@@ -1,4 +1,4 @@
 test inner file
 
-line 2-test-edit-edit2
+line 2-test-edit-edit2  edit5
 edited
