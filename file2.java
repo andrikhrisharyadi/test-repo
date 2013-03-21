@@ -2,6 +2,11 @@
 
 
 class Person {
+
   
   private String nama;
+
+  private int id;
+  
+
 }
