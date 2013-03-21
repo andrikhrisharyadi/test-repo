@@ -2,6 +2,6 @@
 
 
 class Person {
-  
+  private int id;
   
 }
