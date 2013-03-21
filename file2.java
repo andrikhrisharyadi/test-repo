@@ -3,5 +3,5 @@
 
 class Person {
   
-  
+  private String nama;
 }
